@@ -7,8 +7,6 @@ The game is still in development. For now the fully functioning systems are :
 - Online : Backend integration of Epic Games Services for Authentication, Sessions and User Cloud.
 - Gameplay : First Level is implemented and playable, it uses many Actor classes to create an entertaining and responsive level
 
-For authentication with Epic Games, please contact me at andreghiocel.work@gmail.com or https://www.linkedin.com/in/andrei-ghiocel-544751239/.
-
 ## Description
  Multiplayer obstacle course game with up to 4 players online racing across entertaining levels.
  
